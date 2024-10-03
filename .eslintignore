@@ -3,6 +3,6 @@ artifacts
 cache
 coverage
 dist
-typechain
+typechain097
 packages/keeper-bots/src/config/abis/generated.ts
 packages/keeper-bots/subgraph-client/.graphqlclient
